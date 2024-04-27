@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+a simple perfume graph ql api for the cbd course project
 
 ## Installation
 
@@ -46,18 +46,6 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 After running the app is running at http://localhost:3000/graphql
-## Test
-
-```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
-# test coverage
-$ pnpm run test:cov
-```
 
 ## Support
 
