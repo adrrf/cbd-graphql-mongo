@@ -1,8 +1,8 @@
 {
   "name": "cbd-graphql-mongo",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "a simple graphql api for the cbd project course",
+  "author": "adrián romero flores",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
