@@ -33,6 +33,7 @@ $ pnpm install
 ```
 
 ## Running the app
+For this project to work is needed a local MongoDB connection oppened on port 27017
 
 ```bash
 # development
@@ -44,7 +45,7 @@ $ pnpm run start:dev
 # production mode
 $ pnpm run start:prod
 ```
-
+After running the app is running at http://localhost:3000/graphql
 ## Test
 
 ```bash
